@@ -1,0 +1,11 @@
+
+Processing dataset: NIPS Papers
+Dataset loaded: NIPS Papers
+Number of Documents: 1500
+Vocabulary Size: 12419
+TF-IDF computation completed.
+K=2, Silhouette Score=0.0144
+K=5, Silhouette Score=0.0090
+K=10, Silhouette Score=0.0113
+K=20, Silhouette Score=0.0169
+Best K for NIPS Papers: 20, Silhouette Score: 0.0169

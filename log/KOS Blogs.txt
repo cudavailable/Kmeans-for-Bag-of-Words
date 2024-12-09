@@ -1,0 +1,11 @@
+
+Processing dataset: KOS Blogs
+Dataset loaded: KOS Blogs
+Number of Documents: 3430
+Vocabulary Size: 6906
+TF-IDF computation completed.
+K=2, Silhouette Score=0.0191
+K=5, Silhouette Score=0.0258
+K=10, Silhouette Score=0.0288
+K=20, Silhouette Score=0.0162
+Best K for KOS Blogs: 10, Silhouette Score: 0.0288
